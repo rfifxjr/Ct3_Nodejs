@@ -1,0 +1,10 @@
+{
+  "name": "cp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^1.0.0"
+  }
+}
